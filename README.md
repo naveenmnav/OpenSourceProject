@@ -68,7 +68,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href=https://github.com/naveenmnav"><img src="https://github-profile-trophy.vercel.app/?username=naveenmnav&layout=compact&theme=algolia" alt="Naveen's Trophies" /></a> </p>
+<p align="center"> <a href=https://github.com/naveenmnav><img src="https://github-profile-trophy.vercel.app/?username=naveenmnav&layout=compact&theme=algolia" alt="Naveen's Trophies" /></a> </p>
 
 -----
 
