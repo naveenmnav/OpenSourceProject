@@ -38,11 +38,25 @@
 
 
 10. git merge main -> Merges the current branch into the specified branch (main)  
-![10](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/10.JPG)
+![10](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/10_New.JPG)
 
 
 11. git init -> Initiates an empty repository with git functions  
 ![11](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/11.JPG)
 
+12. git log -> gives the logs in the recent 3 steps in the project  
+![12](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/12.JPG)
+
+13. git log -p -> gives the explanation of each step done  
+![13](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/13.JPG)
+
+14. git config --global user.name "NaveenM"  
+![14](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/14.JPG)
+
+15. git config --global user.email "NaveenM@gmail.com"  
+![15](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/15.JPG)
+
+16. git reset . -> Undo the recent changes that are to be committed  
+![16](https://github.com/naveenmnav/OpenSourceProject/blob/main/Screenshots/16.JPG)
 
 
