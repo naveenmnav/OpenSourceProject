@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Builds the OpenSourceProject Docker image
-      run: docker build . --file Dockerfile --tag thehilifer/naveen_fast_api_docker_up:$(date +%s)
+      run: docker build . --file Dockerfile --tag thehilifer/naveen_fast_api_docker_up
