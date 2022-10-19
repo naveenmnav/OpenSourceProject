@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Builds the OpenSourceProject Docker image
-      run: docker build -t naveen_fast_api_docker_up .
+      run: docker container run --name web 5000:5000 naveen_fast_api_docker_up
